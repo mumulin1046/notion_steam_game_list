@@ -4,10 +4,10 @@ import os
 import logging
 
 # CONFIG
-STEAM_API_KEY = os.environ.get("STEAM_API_KEY")
-STEAM_USER_ID = os.environ.get("STEAM_USER_ID")
-NOTION_API_KEY = os.environ.get("NOTION_API_KEY")
-NOTION_DATABASE_ID = os.environ.get("NOTION_DATABASE_ID")
+STEAM_API_KEY = os.environ.get("C97C3874515676CFA8E45C5BF3C5AF1E")
+STEAM_USER_ID = os.environ.get("76561198072775343")
+NOTION_API_KEY = os.environ.get("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")
+NOTION_DATABASE_ID = os.environ.get("188fc9903ecc808aa318c5ccdbd59647?v=188fc9903ecc808e8e94000c7aa25f7c&pvs=4")
 # OPTIONAL
 include_played_free_games = os.environ.get("include_played_free_games")
 enable_item_update = os.environ.get("enable_item_update")
